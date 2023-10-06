@@ -1,5 +1,5 @@
 # Bingo_Games
-SLIIT 2Y1S | OOP Project | Add favorite user games, home page and games featured pages
+SLIIT 2Y1S | OOP Group Project | Add favorite user games, home page and games featured pages
 
 
 
